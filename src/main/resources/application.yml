@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: helloworldsb
+server:
+    servlet: 
+        contextPath: /api
+    port: 8090  
